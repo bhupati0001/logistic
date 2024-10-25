@@ -688,6 +688,7 @@ About Three
 
 .about-three__content-text p {
     margin: 0px;
+    text-align: justify;
 }
 
 .about-three__content-list {

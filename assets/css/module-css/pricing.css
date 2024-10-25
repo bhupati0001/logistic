@@ -96,14 +96,14 @@ Pricing One
     margin-bottom: 7px;
 }
 
-.pricing-one__single-inner .table-header .title-box h3 {
+.pricing-one__single-inner .table-header .title-box span.pricing-plan {
     color: var(--logistiq-base);
     font-size: 24px;
     line-height: 24px;
     font-weight: 700;
 }
 
-.pricing-one__single-inner .table-header .title-box h3 span {
+.pricing-one__single-inner .table-header .title-box span {
     position: relative;
     display: inline-block;
     color: var(--logistiq-black);

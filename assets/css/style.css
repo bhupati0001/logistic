@@ -1351,7 +1351,7 @@ animation: spinner 1s infinite linear;
 }
 
 .main-header-one__bottom-left .logo-box a img {
-  width: 100%;
+  width: 50%;
 }
 
 

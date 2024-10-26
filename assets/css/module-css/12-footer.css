@@ -426,8 +426,8 @@ Footer Two
 
 .footer-one--two .shape3 {
     position: absolute;
-    top: 0px;
-    right: 135px;
+    top: 20px;
+    right: 0px;
     z-index: -1;
 }
 
